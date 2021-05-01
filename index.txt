@@ -1,5 +1,1 @@
-hello this is covid19
-i am leanring linux 
-and also learning Git 
-but stay at home to avoid covid19
-and virus name is corona brother of careena
+2nd line update start from here
